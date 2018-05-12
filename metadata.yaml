@@ -1,0 +1,33 @@
+_repo: Dua-Libro-de-l-Lingvo-Internacia_20006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zamenhof, L. L. (Ludwik Lejzer)
+    aliases:
+    - Zamenhof, Ludovic Lazarus
+    - Zamenhof, Lazaro Ludoviko
+    - Zamenhof, Ludwik Lazar
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '3934'
+    url: http://www.gutenberg.org/2009/agents/3934
+    wikipedia: http://en.wikipedia.org/wiki/L._L._Zamenhof
+description: 'Also contains: Aldono al la Dua Libro de l'' Lingvo Internacia'
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2006-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20006'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto'
+- !lcsh 'Esperanto -- Readers'
+- !lcc 'PM'
+title: Dua Libro de l' Lingvo Internacia
+url: http://www.gutenberg.org/ebooks/20006
